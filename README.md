@@ -1,5 +1,7 @@
 # Graffiti 
 
+![home](https://i.imgur.com/wIZuTN3.png)
+
 ## Demo
 
 https://vii120.github.io/graffiti/
